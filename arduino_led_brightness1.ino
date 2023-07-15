@@ -1,9 +1,9 @@
-# define led 13
+# define led 10
 int counter=5;
 int a=0;
 void setup()
 {
-pinMode(13,OUTPUT);
+pinMode(10,OUTPUT);
 }
 
 void loop()
